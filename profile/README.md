@@ -6,7 +6,7 @@ Welcome to the **Agentic Quant Trading System**, a multi-component architecture 
 
 This project is decoupled into three primary repositories, separating the data engineering, core trading logic, and user interface:
 
-* **[`agentic-ai-trading`](https://github.com/agentic-quant-trading-system/agentic-al-trading)**
+* **[`agentic-ai-trading`](https://github.com/agentic-quant-trading-system/agentic-aI-trading)**
     * **Role:** The backbone of the system.
     * **Description:** Handles daily scheduled market and macro data fetching financial APIs and store them in Azure Blob containers.
 
